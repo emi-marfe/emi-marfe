@@ -1,10 +1,10 @@
-Hi 👋 My name is Oladimeji marvelous
+Hi 👋 My name is Oladimeji marvellous
 ====================================
 
 A web and app(iOS &Android) developer
 -------------------------------------
 
-* 🌍  I'm based in Ibadan nigeria
+* 🌍  I'm based in Lagos + Ibadan nigeria
 * ✉️  You can contact me at [Tohbee4real@gmail.com](mailto:Tohbee4real@gmail.com)
 * 🚀  I'm currently working on [Bandsell](http://Bandsell.com)
 * 🧠  I'm learning Flutter and nodejs
